@@ -1,2 +1,2 @@
 # FaceAndEyeTrackerUsingOpenCV
-a simple face and eye tracker using openCV's haarcascade model
+A simple face and eye tracker using haar cascade
