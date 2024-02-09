@@ -1,5 +1,5 @@
 # FaceAndEyeTrackerUsingOpenCV
-A simple face and eye tracker using haar cascade
+A simple face and eye tracker using <b>HAAR cascade</b>
 <hr>
 build using <b>docker build -t imagename . </b>
 <hr>
