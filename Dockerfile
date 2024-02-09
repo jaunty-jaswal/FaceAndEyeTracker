@@ -1,3 +1,4 @@
+CMD ["python","main.py"]
 FROM python
 WORKDIR /app
 COPY . /app
@@ -12,3 +13,4 @@ RUN pip install numpy
 RUN pip install matplotlib
 
 CMD ["python","main.py"]
+
