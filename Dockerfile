@@ -1,5 +1,5 @@
-CMD ["python","main.py"]
 FROM python
+LABEL maintainer="https://github.com/jaunty-jaswal"
 WORKDIR /app
 COPY . /app
 RUN pip install --upgrade pip
